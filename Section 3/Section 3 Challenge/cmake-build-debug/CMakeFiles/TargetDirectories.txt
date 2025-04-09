@@ -1,0 +1,3 @@
+/Users/iCanDigital/projects/c_projects/Udemy/C Programming For Beginners - Master the C Language/Section 3/Section 3 Challenge/cmake-build-debug/CMakeFiles/Section_3_Challenge.dir
+/Users/iCanDigital/projects/c_projects/Udemy/C Programming For Beginners - Master the C Language/Section 3/Section 3 Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iCanDigital/projects/c_projects/Udemy/C Programming For Beginners - Master the C Language/Section 3/Section 3 Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
